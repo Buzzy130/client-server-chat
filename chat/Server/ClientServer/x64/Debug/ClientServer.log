@@ -1,0 +1,3 @@
+﻿  Server.cpp
+C:\учеба\Компьютерные сети-5семак\3 laba\Server\ClientServer\Server.cpp(41,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ClientServer.vcxproj -> C:\учеба\Компьютерные сети-5семак\3 laba\Server\x64\Debug\ClientServer.exe
